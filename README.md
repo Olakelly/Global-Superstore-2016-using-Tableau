@@ -37,8 +37,4 @@ To open and explore the dashboard:
 
 ## [Link to Dashboard ](https://public.tableau.com/app/profile/olamide.thomas/viz/GlobalSuperstoreDashboard_17466283588930/Dashboard1)
 
-- Business analysts monitoring retail KPIs
-- Data storytelling and visualization practice
-- Teaching dashboards in data visualization courses
-- Executive-level reporting on global sales performance
 
