@@ -35,9 +35,7 @@ To open and explore the dashboard:
 - [Tableau Desktop](https://www.tableau.com/products/desktop)
 - Global Superstore sample dataset
 
-## 📌 Use Cases
-
-This dashboard is perfect for:
+## [Link to Dashboard ](https://public.tableau.com/app/profile/olamide.thomas/viz/GlobalSuperstoreDashboard_17466283588930/Dashboard1)
 
 - Business analysts monitoring retail KPIs
 - Data storytelling and visualization practice
