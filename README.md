@@ -12,6 +12,7 @@ This project contains an interactive Tableau dashboard built using the popular *
   - Region
   - Category/Sub-category
 - Intuitive charts including bar charts, line graphs, and maps
+![Screenshot 2025-06-10 053816](https://github.com/user-attachments/assets/5ee4c32a-134e-4ab1-9604-c04c9a99f016)
 
 ## 📁 File Contents
 
