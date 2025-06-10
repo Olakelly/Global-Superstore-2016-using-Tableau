@@ -13,6 +13,7 @@ This project contains an interactive Tableau dashboard built using the popular *
   - Category/Sub-category
 - Intuitive charts including bar charts, line graphs, and maps
 ![Screenshot 2025-06-10 053816](https://github.com/user-attachments/assets/5ee4c32a-134e-4ab1-9604-c04c9a99f016)
+## [Link to Dashboard ](https://public.tableau.com/app/profile/olamide.thomas/viz/GlobalSuperstoreDashboard_17466283588930/Dashboard1)
 
 ## 📁 File Contents
 
@@ -35,6 +36,6 @@ To open and explore the dashboard:
 - [Tableau Desktop](https://www.tableau.com/products/desktop)
 - Global Superstore sample dataset
 
-## [Link to Dashboard ](https://public.tableau.com/app/profile/olamide.thomas/viz/GlobalSuperstoreDashboard_17466283588930/Dashboard1)
+
 
 
